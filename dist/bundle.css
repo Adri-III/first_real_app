@@ -1,0 +1,22 @@
+/*!************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[3]!./src/sass/style.scss ***!
+  \************************************************************************************************************************************************************************************/
+h1 {
+  color: #390ae0;
+  font-family: "Zen Loop";
+}
+
+p {
+  color: #ff1414;
+  font-family: "Indie Flower";
+}
+
+body {
+  background-image: url(c13ec6b480c32813382a.jpg);
+}
+
+@font-face {
+  font-family: "Zen Loop", "Indie Flower";
+  src: url(448a8a4adc5113f1b542.ttf);
+  src: url(6567dfc1edefd89dd4e7.ttf);
+}

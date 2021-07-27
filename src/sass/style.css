@@ -1,0 +1,22 @@
+p {
+    color: #ff1414;
+    font-family: 'Indie Flower';
+}
+
+h1 {
+    color: #6614ff;
+    font-family: 'Zen Loop';
+}
+
+body {
+    background-image: url("../images/B&W.jpg");
+}
+
+@font-face {
+    font-family: 'Indie Flower', 'Zen Loop';
+    src: url("../fonts/IndieFlower-Regular.ttf");
+    src: url("../fonts/ZenLoop-Regular.ttf");
+}
+
+
+/*# sourceMappingURL=style.css.map */
